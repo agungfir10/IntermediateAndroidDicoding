@@ -10,7 +10,7 @@ import android.view.View
 import androidx.appcompat.widget.AppCompatButton
 import androidx.core.content.ContextCompat
 
-class MyButton : AppCompatButton, View.OnTouchListener {
+class MyButton : AppCompatButton {
 
     private lateinit var enabledBackground: Drawable
     private lateinit var disabledBackground: Drawable
@@ -18,12 +18,12 @@ class MyButton : AppCompatButton, View.OnTouchListener {
 
     constructor(context: Context) : super(context) {
         init()
-        setOnTouchListener(this)
+        //setOnTouchListener(this)
     }
 
     constructor(context: Context, attrs: AttributeSet?) : super(context, attrs) {
         init()
-        setOnTouchListener(this)
+        //setOnTouchListener(this)
     }
 
     constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int) : super(
@@ -32,7 +32,7 @@ class MyButton : AppCompatButton, View.OnTouchListener {
         defStyleAttr
     ) {
         init()
-        setOnTouchListener(this)
+        //setOnTouchListener(this)
     }
 
     override fun onDraw(canvas: Canvas) {
@@ -41,7 +41,7 @@ class MyButton : AppCompatButton, View.OnTouchListener {
         setTextColor(txtColor)
         textSize = 12f
         gravity = Gravity.CENTER
-//        text = if (isEnabled) "Submit" else "Isi Dulu"
+        text = if (isEnabled) "Submit" else "Isi Dulu"
     }
 
     private fun init() {
@@ -51,19 +51,19 @@ class MyButton : AppCompatButton, View.OnTouchListener {
             ContextCompat.getDrawable(context, R.drawable.bg_button_disable) as Drawable
     }
 
-    override fun onTouch(view: View, event: MotionEvent): Boolean {
-        when (event.action) {
-            MotionEvent.ACTION_DOWN -> {
-                text = "Aku Tertekan"
-                return true
-            }
-            MotionEvent.ACTION_UP -> {
-                text = "Aku Dilepas"
-                return true
-            }
-        }
-
-        return false
-
-    }
+//    override fun onTouch(view: View, event: MotionEvent): Boolean {
+//        when (event.action) {
+//            MotionEvent.ACTION_DOWN -> {
+//                text = "Aku Tertekan"
+//                return true
+//            }
+//            MotionEvent.ACTION_UP -> {
+//                text = "Aku Dilepas"
+//                return true
+//            }
+//        }
+//
+//        return false
+//
+//    }
 }
