@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Localization &amp; Accesibility</string>
+
+    <string name="title_menu_1">Global Industry Standard Curriculum</string>
+    <string name="title_menu_2">Belajar Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Code Review dari Developer Expert</string>
+    <string name="title_menu_4">Alumni Terpercaya di Berbagai Perusahaan</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bersama perusahaan dan pemilik teknologi dunia sesuai kebutuhan industri terkini.</string>
+    <string name="desc_menu_2">Belajar kapan pun, di mana pun, secara mandiri. Bebas memilih kelas sesuai minat belajar. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi skill Anda melalui 1-on-1 Professional Code Review yang diberikan langsung oleh Developer Expert.</string>
+    <string name="desc_menu_4">Sertifikat yang membuktikan pengetahuan fundamental beserta keterampilan nyata yang diinginkan perusahaan global.</string>
+    <string name="learn_now">Learn now</string>
+    <string name="description_product">Cool limited edition running shoes. Wearing these shoes will improve your understanding when learning to code.\\n\\nStuff is always there. Various sizes and colors are available. Order now!</string>
+    <string name="name_product">Running Shoes</string>
+    <string name="date_product">Uploaded Aug 5, 2021</string>
+    <string name="color_product">Brown</string>
+    <string name="rating_product" translatable="false">4.5 (1.249)</string>
+    <string name="size_product" translatable="false">42</string>
+    <string name="buy_product">Buy now!</string>
+    <string name="price_product">Rp. 200.000,00</string>
+    <string name="store_product">Dicoding Store</string>
+</resources>

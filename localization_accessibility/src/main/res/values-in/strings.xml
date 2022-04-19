@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Menengah Dicoding</string>
+    <string name="title_menu_1">Kurikulum Standar Industri Global</string>
+    <string name="title_menu_2">Belajar Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Code Review dari Developer Expert</string>
+    <string name="title_menu_4">Alumni Terpercaya di Berbagai Perusahaan</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bersama perusahaan dan pemilik teknologi dunia sesuai kebutuhan industri terkini.</string>
+    <string name="desc_menu_2">Belajar kapan pun, di mana pun, secara mandiri. Bebas memilih kelas sesuai minat belajar. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi skill Anda melalui 1-on-1 Professional Code Review yang diberikan langsung oleh Developer Expert.</string>
+    <string name="desc_menu_4">Sertifikat yang membuktikan pengetahuan fundamental beserta keterampilan nyata yang diinginkan perusahaan global.</string>
+    <string name="learn_now">Belajar Sekarang</string>
+    <string name="description_product">Sepatu lari kece edisi terbatas. Memakai sepatu ini akan meningkatkan pemahamanmu ketika belajar coding.\n\nBarang selalu ada. Tersedia berbagai ukuran dan warna. Kita kasih harga promo cashback 20% bagi pembeli pertama, syarat kalian harus membeli terlebih dahulu, sistem akan otomatis mengecek siapa pembeli pertama. Silakan langsung order!</string>
+    <string name="name_product">Sepatu Lari</string>
+    <string name="store_product">Toko Dicoding</string>
+    <string name="date_product">Diunggah 5 Agu 2021</string>
+    <string name="color_product">Coklat</string>
+    <string name="rating_product">4.5 (1.249)</string>
+    <string name="size_product">42</string>
+    <string name="buy_product">Beli Sekarang!</string>
+    <string name="price_product">Rp. 200.000,00</string>
+</resources>
