@@ -1,4 +1,4 @@
-package com.agungfir.intermediateandroiddicoding.custom_view
+package com.agungfir.customview
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -8,7 +8,6 @@ import android.graphics.Paint
 import android.graphics.Rect
 import android.view.View
 import androidx.core.content.res.ResourcesCompat
-import com.agungfir.intermediateandroiddicoding.R
 
 class CanvasView(context: Context) : View(context) {
     @SuppressLint("DrawAllocation")
@@ -69,6 +68,11 @@ class CanvasView(context: Context) : View(context) {
         )
         canvas.drawRect(mRect, mPaint)
 
-        canvas.clipRect(mBitmap.width/2 - 100, mBitmap.height/2 - 100, mBitmap.width/2 + 100, mBitmap.height/2 + 100)
+        canvas.clipRect(
+            mBitmap.width / 2 - 100,
+            mBitmap.height / 2 - 100,
+            mBitmap.width / 2 + 100,
+            mBitmap.height / 2 + 100
+        )
     }
 }

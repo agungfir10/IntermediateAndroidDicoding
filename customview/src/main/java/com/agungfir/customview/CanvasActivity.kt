@@ -1,10 +1,10 @@
-package com.agungfir.intermediateandroiddicoding.custom_view
+package com.agungfir.customview
 
 import android.graphics.Bitmap
 import android.graphics.Canvas
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.agungfir.intermediateandroiddicoding.databinding.ActivityCanvasBinding
+import com.agungfir.customview.databinding.ActivityCanvasBinding
 
 class CanvasActivity : AppCompatActivity() {
 
@@ -12,7 +12,6 @@ class CanvasActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityCanvasBinding.inflate(layoutInflater)
         //setContentView(binding.root)
 
         // use canvas view

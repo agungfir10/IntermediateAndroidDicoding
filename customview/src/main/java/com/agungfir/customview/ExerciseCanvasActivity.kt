@@ -1,12 +1,11 @@
-package com.agungfir.intermediateandroiddicoding.custom_view
+package com.agungfir.customview
 
 import android.graphics.*
 import android.os.Build
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.res.ResourcesCompat
-import com.agungfir.intermediateandroiddicoding.R
-import com.agungfir.intermediateandroiddicoding.databinding.ActivityExerciseCanvasBinding
+import com.agungfir.customview.databinding.ActivityExerciseCanvasBinding
 
 class ExerciseCanvasActivity : AppCompatActivity() {
 
