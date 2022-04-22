@@ -43,6 +43,16 @@
         <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/localization_accessibility/src/main/res/drawable-v24/rounded_background.xml" value="0.1775" />
         <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/localization_accessibility/src/main/res/layout-land/activity_main.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/localization_accessibility/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/drawable/ic_capture.xml" value="0.203" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/drawable/ic_placeholder.xml" value="0.203" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/drawable/ic_switch.xml" value="0.203" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_camera.xml" value="0.259375" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_exo_player.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_intent_camera.xml" value="0.259375" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_media_player.xml" value="0.259375" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_media_service_notification.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/layout/activity_sound_pool.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/media/src/main/res/xml/file_paths.xml" value="0.259375" />
         <entry key="..\:/Users/agung/AndroidStudioProjects/IntermediateAndroidDicoding/service/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
       </map>
     </option>
